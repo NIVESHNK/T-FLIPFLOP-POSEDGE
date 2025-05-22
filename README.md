@@ -62,6 +62,10 @@ end
 assign q_bar = ~q;
 endmodule
 ```
+```
+Developed by: NIVESH NK
+Reg no: 212224050027
+```
 
 **RTL LOGIC FOR FLIPFLOPS**
 
